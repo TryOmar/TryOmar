@@ -95,9 +95,18 @@ Open for technical discussions and project collaborations:
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&theme=radical" alt="Omar Abdelrahman's GitHub stats" style="width: 62%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar7001-B&layout=compact&theme=radical&langs_count=10" alt="Omar Abdelrahman's most used languages" style="width: 36%;">
+<div style="display: flex; gap: 2%;">
+  <picture style="width: 70%;">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true"/>
+  </picture>
+
+  <picture style="width: 28%;">
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar7001-B&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=10" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar7001-B&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar7001-B&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10"/>
+  </picture>
 </div>
 
 ---
