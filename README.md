@@ -104,6 +104,8 @@ Open for technical discussions and project collaborations:
 
 ## 🐍 Commits Sneak Peek
 
-<p align="center">
-  <img src="https://github.com/Omar7001-B/Omar7001-B/raw/output/github-contribution-grid-snake.svg" alt="Commits Sneak Peek">
-</p>
+<picture width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake.svg" width="100%" />
+</picture>
