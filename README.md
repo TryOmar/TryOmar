@@ -46,6 +46,8 @@ Open for technical discussions and project collaborations:
 
 ## 📊 GitHub Stats
 
+
+
 <div style="display: flex; gap: 2%;">
   <picture style="width: 70%;">
     <source srcset="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
@@ -60,6 +62,18 @@ Open for technical discussions and project collaborations:
   </picture>
 </div>
 
+
+### My Latest Projects (2024/2025)
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Listenify** | Real-time multilingual speech translation. `React` `Speech Recognition` `AI` | [Live Demo](https://listenify-live.vercel.app/) |
+| **QuizatAI** | Dynamic AI-generated multiple-choice questions. `jQuery` `MongoDB` `AI` | [Live Demo](https://omar7001-b.github.io/QuizatAI/) |
+| **GPA Calculator** | Academic performance tracking tool. `Vanilla HTML` | [Live Demo](https://omar7001-b.github.io/gpa-calc/) |
+| **CryptoX** | Mobile security toolkit for `cryptography` and `steganography`. `Kotlin` | [Google Play](https://play.google.com/store/apps/details?id=com.omar.cryptox) |
+| **Al Dalal** | Agricultural land management app. | [Google Play](https://play.google.com/store/apps/details?id=aplic3397443.dei) |
+| **Todo-Abbas** | Simple task management app. `Java` `SQLite` | [GitHub](https://github.com/Omar7001-B/todo-abbas) |
+
 ---
 
 ## 🐍 Commits Sneak Peek
@@ -69,3 +83,9 @@ Open for technical discussions and project collaborations:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake.svg" width="100%" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake.svg" width="100%" />
 </picture>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Omar7001-B&theme=transparent&hide_border=true" alt="GitHub Streak">
+</p>
+
+
