@@ -18,6 +18,7 @@ Open for technical discussions and project collaborations:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/benjami4n/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/TryOmar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@benjami4n)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/omar7001)
 [![MonkeyType](https://img.shields.io/badge/MonkeyType-2D2D2D?style=flat&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/TryOmar)
 
 </div>
