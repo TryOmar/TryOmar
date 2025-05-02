@@ -72,11 +72,12 @@ Open for technical discussions and project collaborations:
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Listenify** | Real-time multilingual speech translation. `React` `Speech Recognition` `AI` | [Live Demo](https://listenify-live.vercel.app/) |
-| **QuizatAI** | Dynamic AI-generated multiple-choice questions. `jQuery` `MongoDB` `AI` | [Live Demo](https://omar7001-b.github.io/QuizatAI/) |
-| **GPA Calculator** | Academic performance tracking tool. `Vanilla HTML` | [Live Demo](https://omar7001-b.github.io/gpa-calc/) |
+| **QuizatAI** | Dynamic AI-generated multiple-choice questions. `jQuery` `MongoDB` `AI` | [Live Demo](https://tryomar.github.io/QuizatAI/) |
+| **GPA Calculator** | Academic performance tracking tool. `Vanilla HTML` | [Live Demo](https://tryomar.github.io/gpa-calc/) |
 | **CryptoX** | Mobile security toolkit for `cryptography` and `steganography`. `Kotlin` | [Google Play](https://play.google.com/store/apps/details?id=com.omar.cryptox) |
 | **Al Dalal** | Agricultural land management app. | [Google Play](https://play.google.com/store/apps/details?id=aplic3397443.dei) |
-| **Todo-Abbas** | Simple task management app. `Java` `SQLite` | [GitHub](https://github.com/Omar7001-B/todo-abbas) |
+| **Todo-Abbas** | Simple task management app. `Java` `SQLite` | [GitHub](https://github.com/TryOmar/todo-abbas) |
+| **Personal Website** | My professional portfolio | [Live Site](https://tryomar.me/) |
 
 ---
 
