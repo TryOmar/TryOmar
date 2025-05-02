@@ -59,15 +59,15 @@ Open for technical discussions and project collaborations:
 
 <div style="display: flex; gap: 2%;">
   <picture style="width: 70%;">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Omar7001-B&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=TryOmar&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=TryOmar&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=TryOmar&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true"/>
   </picture>
 
   <picture style="width: 28%;">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar7001-B&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=10" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar7001-B&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar7001-B&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TryOmar&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=10" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TryOmar&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryOmar&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10"/>
   </picture>
 </div>
 
@@ -89,13 +89,13 @@ Open for technical discussions and project collaborations:
 ## 🐍 Commits Sneak Peek
 
 <picture width="100%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake-dark.svg" width="100%" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake.svg" width="100%" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Omar7001-B/Omar7001-B/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TryOmar/TryOmar/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TryOmar/TryOmar/output/github-snake.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TryOmar/TryOmar/output/github-snake.svg" width="100%" />
 </picture>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Omar7001-B&theme=transparent&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=TryOmar&theme=transparent&hide_border=true" alt="GitHub Streak">
 </p>
 
 
