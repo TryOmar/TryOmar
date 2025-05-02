@@ -13,6 +13,7 @@ Open for technical discussions and project collaborations:
 
 <div align="left">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://tryomar.me/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:TryOmarAbbas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TryOmar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/TryOmar/)
@@ -45,6 +46,10 @@ Open for technical discussions and project collaborations:
 > 🌱 Explore my posts and solutions journey in one place:
 > 
 > [![Journey](https://img.shields.io/badge/My_Journey-Visit-4285F4?style=flat&logo=vercel&logoColor=white)](https://omar-journey.vercel.app/)
+> 
+> 🌐 Check out my professional portfolio:
+> 
+> [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://tryomar.me/)
 
 ---
 
