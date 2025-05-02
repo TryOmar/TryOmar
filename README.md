@@ -43,13 +43,13 @@ Open for technical discussions and project collaborations:
 </div>
 
 
+> 🌐 Check out my portfolio:
+> 
+> [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://tryomar.me/)
+> 
 > 🌱 Explore my posts and solutions journey in one place:
 > 
 > [![Journey](https://img.shields.io/badge/My_Journey-Visit-4285F4?style=flat&logo=vercel&logoColor=white)](https://omar-journey.vercel.app/)
-> 
-> 🌐 Check out my professional portfolio:
-> 
-> [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://tryomar.me/)
 
 ---
 
@@ -82,7 +82,6 @@ Open for technical discussions and project collaborations:
 | **CryptoX** | Mobile security toolkit for `cryptography` and `steganography`. `Kotlin` | [Google Play](https://play.google.com/store/apps/details?id=com.omar.cryptox) |
 | **Al Dalal** | Agricultural land management app. | [Google Play](https://play.google.com/store/apps/details?id=aplic3397443.dei) |
 | **Todo-Abbas** | Simple task management app. `Java` `SQLite` | [GitHub](https://github.com/TryOmar/todo-abbas) |
-| **Personal Website** | My professional portfolio | [Live Site](https://tryomar.me/) |
 
 ---
 
