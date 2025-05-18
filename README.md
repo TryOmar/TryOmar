@@ -21,6 +21,7 @@ Open for technical discussions and project collaborations:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@TryOmar)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/TryOmar)
 [![MonkeyType](https://img.shields.io/badge/MonkeyType-2D2D2D?style=flat&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/TryOmar)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=4995882925966510970)
 
 </div>
 
